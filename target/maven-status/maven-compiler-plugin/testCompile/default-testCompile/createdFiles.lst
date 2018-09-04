@@ -1,0 +1,14 @@
+META-INF/CompilerHints
+com/groupon/relevance/ranking/server/IgniteServerStartup.class
+com/groupon/relevance/ranking/microbenchmark/generated/IgniteBenchmark_jmhType_B3.class
+com/groupon/relevance/ranking/example/ServicesExample$SimpleClosure.class
+com/groupon/relevance/ranking/microbenchmark/generated/IgniteBenchmark_jmhType_B2.class
+com/groupon/relevance/ranking/example/ServicesExample$1.class
+com/groupon/relevance/ranking/microbenchmark/generated/IgniteBenchmark_jmhType_B1.class
+com/groupon/relevance/ranking/example/ComputeBroadcastExample.class
+com/groupon/relevance/ranking/example/ServicesExample.class
+META-INF/BenchmarkList
+com/groupon/relevance/ranking/microbenchmark/IgniteBenchmark.class
+com/groupon/relevance/ranking/grid/TestDealRankingGrid.class
+com/groupon/relevance/ranking/microbenchmark/generated/IgniteBenchmark_benchmarkRank_jmhTest.class
+com/groupon/relevance/ranking/microbenchmark/generated/IgniteBenchmark_jmhType.class

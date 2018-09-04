@@ -1,0 +1,10 @@
+com/groupon/relevance/ranking/service/ScoringServiceImpl.class
+com/groupon/relevance/ranking/grid/DealRankingGrid.class
+com/groupon/relevance/ranking/model/User.class
+com/groupon/relevance/ranking/grid/DealRankingGrid$ScoringBinaryCacheEntryProcessor.class
+com/groupon/relevance/ranking/model/Deal.class
+com/groupon/relevance/ranking/service/ScoringService.class
+com/groupon/relevance/ranking/model/ScoredDeal.class
+com/groupon/relevance/ranking/grid/DealRankingGrid$ScoringCallable.class
+com/groupon/relevance/ranking/grid/DealRankingGrid$1.class
+com/groupon/relevance/ranking/grid/DealRankingGrid$ScoringCacheEntryProcessor.class
